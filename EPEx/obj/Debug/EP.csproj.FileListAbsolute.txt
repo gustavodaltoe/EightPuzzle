@@ -1,0 +1,9 @@
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\obj\Debug\EP.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\obj\Debug\EP.EP.resources
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\obj\Debug\EP.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\obj\Debug\EP.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\bin\Debug\EP.exe.config
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\bin\Debug\EP.exe
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\bin\Debug\EP.pdb
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\obj\Debug\EP.exe
+C:\Users\Gustavo\Desktop\ExQuebraCabeça 2.0\EPEx\obj\Debug\EP.pdb
